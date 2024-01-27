@@ -2,7 +2,7 @@
  * 2 types of Data types
  * 1- PRIMITIVE
  * - string type
- * -number type
+ * - number type
  * - boolean type
  * - undefined type
  * - null type
